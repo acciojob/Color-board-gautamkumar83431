@@ -9,6 +9,7 @@
     }
 
     .container {
+		  background: grey;
       display: grid;
       grid-template-columns: repeat(40, 20px);
       gap: 2px;
